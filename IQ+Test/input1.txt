@@ -1,0 +1,8 @@
+ABC ABC ACB ABC ABC
+DEF DEF DEF EDF DeF
+abc acc abc dbc abc
+def def def aef deF
+123 122 023 123 123
+456 456 456 456 x56
+ana ina una ena ana
+gol gol gol gol gol

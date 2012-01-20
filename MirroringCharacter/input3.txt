@@ -1,0 +1,10 @@
+def get_statistics(s)
+  a=[0,0,0,0]
+  an=/[a-zA-Z0-9]/
+  ws=/[ \t\n]/
+  s.each_byte{|x|
+    s=x.chr
+    a[an=~s ?2:ws=~s ?1: x<127&&x>32?3:0]+=1
+  }
+  a
+end

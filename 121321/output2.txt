@@ -1,0 +1,7 @@
+Recent endless problems
+
+    * 4321654321321. Enumeration of divisor
+    * 4321654321987654321. hexdump
+    * 43217654321. hexdump21
+    * 4321876543214321. Double Square Numbers
+    * 432187654321987654321. The Sexiest

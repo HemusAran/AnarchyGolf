@@ -1,0 +1,14 @@
+If you prepare testcases file, caddy can be used for other golf
+challenges (e.g. http://codegolf.com/). Suppose you have the solution
+of "99 bottles of beer" (http://codegolf.com/99-bottles-of-beer) as
+"bottle.rb". In this case, caddy checks if there is a file
+"bottle.test" in the current directory. If it exists, caddy extracts
+testcases from the file. Please check sample/* for the format of the
+testcase file.
+
+There is another format of testcases. If there are files named
+test/bottle*.output and test/bottle*.input (*.input is optional),
+caddy extracts testcases from these files. The sample if in cg/*.
+And, if you use the same naming convention as mine, you can use cg/*
+to test your solutions for codegolf.com. Note that the files under cg/
+are incomplete.

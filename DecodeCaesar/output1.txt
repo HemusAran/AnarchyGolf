@@ -1,0 +1,12 @@
+This is a golf server. You can enjoy short coding here in several
+languages (83 languages). The purpose of this server is not serious
+competition. Joke problems are welcomed and you can speak freely about
+problems and can release spoilers. For serious competition with
+ranking, enter Code Golf.
+
+IRC channel for this golf server: #anagol in freenode. Please feel
+free to join the channel to talk about various things around golf.
+
+Mark Byers kindly prepared a site for this golf server. If you would
+like to join to add tips, please ask Mark to add you as a collaborator
+(supposedly, in IRC?).

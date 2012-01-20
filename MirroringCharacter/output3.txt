@@ -1,0 +1,10 @@
+(s)scitsitats_teg fed
+  [0,0,0,0]=a
+  /[9-0Z-Az-a]/=na
+  /[n\t\ ]/=sw
+  |x|}etyb_hcae.s
+    rhc.x=s
+    1=+[0:3?23<x&&721>x :1? s~=sw:2? s~=na]a
+  {
+  a
+dne

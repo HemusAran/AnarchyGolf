@@ -1,0 +1,53 @@
+Added octave and ucblogo. Updated the version of scala (2.8.1) and
+gauche (0.9.1). Thanks KirarinSnow, gengar68, and m_satyr for these
+suggestions!
+
+Due to the big earthquake, we will have planned power outages several
+times. I think this site may be down occasionally. Sorry for
+inconvenience. Update: they say the power company is planning not to
+stop power for my area. So, maybe this site won't be down.
+
+Added scala, finally. Thanks for folks who suggested this language to
+me.
+
+I've just removed Just random data from the list as it seems this
+problems is a copy of SPOJ's MONS and people don't like this problem
+so much. Also, I made Yin Yang endless because SPOJ also has the same
+challenge. Please refrain from copying problems from SPOJ.
+
+There were two directories where we can write permanent files and one
+of this was used in http://golf.shinh.org/p.rb?27c3_Generate+C . I've
+already fixed the permission of this directory and removed the
+entries. Thanks 27c3 guys for finding this issue!
+
+I removed Sokoban challenge by mistake but it recovered now. Sorry for
+inconvenience.
+
+Updated the version of Perl6. Now it uses rakudo-star-2010.07.
+
+Added dc. I also added BC_LINE_LENGTH=9999 environment variable for bc
+so it can solve more problems. Thanks Carlos for these suggestions!
+
+Added FlogScript and FerNANDo. Thanks leonid and asiekierka for the
+suggestions!
+
+Added Zsh, fish, and bc.
+
+Sorry for confusing, but python entries for Buffalo need to be fixed.
+Please wait for a while.... Fixed.
+
+Added Clojure. Though I forgot to mention, I think this loophole was
+closed two weeks ago. It seems sometimes you cannot run C# and Nemerle
+programs due to this fix. Until I fix this issue, please let me know
+if you notice you cannot run them on this server. Thanks John for
+finding and reporting this! 2009-01-29
+
+Updated the version info of languages.
+
+Added user ranking, and re-organized this site.
+
+Added LilyPond. Thanks KirarinSnow for suggesting this.
+
+Now, you have setpid interface. You can adjust the PID without
+attacking the server! The golf server was upgraded. The new system
+should be faster than before.
