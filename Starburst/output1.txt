@@ -1,0 +1,11 @@
+p    p    p
+ h   h   h 
+  p  p  p  
+   g g g   
+    ooo    
+phpgolf.org
+    fff    
+   . . .   
+  o  o  o  
+ r   r   r 
+g    g    g
