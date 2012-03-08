@@ -1,0 +1,3 @@
+Reverse 8-bit representation of each input character.<br/>Input 'd' -> 100 = 01100100 -(Reverse)-> 00100110 = 38 -> Output '&'
+
+# http://golf.shinh.org/p.rb?Reverse+Bits+FIXED
