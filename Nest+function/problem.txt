@@ -1,0 +1,7 @@
+Calculate the following function.
+x in radians.
+
+f(x)=sin(sin(cos(cos(cos(sin(cos(cos(cos(sin(sin(sin(sin(sin(cos(sin(cos(cos(x))))))))))))))))))
+
+
+# http://golf.shinh.org/p.rb?Nest+function

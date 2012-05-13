@@ -1,0 +1,3 @@
+Read each character and print an 'E' if its ASCII value is even or 'O' if its ASCII value is odd. Note, the characters are separated by newlines.
+
+# http://golf.shinh.org/p.rb?ASCII+value+even+or+odd
